@@ -1,0 +1,17 @@
+commit 1dbf75672c101ad2b3420b4fcb7b22461c0f1759
+Author: Sofia Sinani <sofsin1208@gmail.com>
+Date:   Fri Oct 30 09:54:25 2020 +0100
+
+    Added testfile.txt
+
+commit 8a99bd729e4bb6e0be200b73b78115fb4a36813d
+Author: Sofia Sinani <70908262+sofsin96@users.noreply.github.com>
+Date:   Fri Oct 30 09:42:08 2020 +0100
+
+    Update README.md
+
+commit 433f3ee2560ddf8efc6abaada4be750b1c7815ac
+Author: Sofia Sinani <sofsin1208@gmail.com>
+Date:   Fri Oct 30 09:38:00 2020 +0100
+
+    Initial commit
